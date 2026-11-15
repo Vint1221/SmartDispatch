@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.db
+*.sqlite3
+.playwright-cli/
+.venv/
+venv/
